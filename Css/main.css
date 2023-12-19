@@ -1,0 +1,19 @@
+
+.demo{
+    background-color:#5CDB95;
+    color: #05386B;
+    padding: 20px 20px;
+    width: fit-content;
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: 800;
+    font-size: 20px;
+}
+.vip{
+   background-color: black;
+   color: azure;
+   padding: 20px 20px;
+   width: fit-content;
+   text-transform: capitalize;
+   text-align: center;
+}
